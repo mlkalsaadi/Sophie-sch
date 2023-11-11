@@ -1,0 +1,35 @@
+.border{width:100%;height:100%;background-color:#176045;overflow-y: hidden}
+
+.hintergrund{width:100%;height:100%;background-color: #0f402d;}
+
+.foto{width:100%;height:400px;margin-top:1%;border-radius:20px 20px 0px 0px;background-size: cover;
+  min-width:100%;overflow-x:hidden; white-space: nowrap;box-shadow:0px 2px 0px 1px #33926a}
+.foto:hover{box-shadow:0px 0px 10px 2px #fff}
+.foto_1{width:414px;height:400px;background-size: cover;float: left;}
+.foto_2{width:414px;height:400px;background-size: cover;float: left;margin-top:1px;}
+.foto_3{width:414px;height:400px;background-size: cover;float: left;margin-top:1px;}
+.foto_4{width:414px;height:400px;background-size: cover;float: left;margin-top:1px;}
+.foto_5{width:414px;height:400px;background-size: cover;float: left;margin-top:1px;}
+
+.name{width:100%;height:30px; color: #fff ; font-family: Quicksand; text-align: center;margin-top: 13px;}
+.name:hover{color: rgb(232, 75, 200)}
+
+.work{width:100%;height:30px;font-family: Quicksand;color: rgb(232, 75, 200);text-align: center;}
+.work:hover{color:#fff;}
+
+.media{width: 100%;height:62px;text-align:center;margin-top:0%;}
+
+.instagram{width:70px;height:70px;margin-left:0%;border-radius: 50%;background-size: cover;}
+.instagram:hover{box-shadow: 0px 0px 10px 2px  rgb(232, 75, 200); transition: transform 2s; transform: rotate(360deg);}
+
+.tiktok{width:70px;height:70px;margin-left:2%;border-radius: 50%;background-size: cover;}
+.tiktok:hover{box-shadow: 0px 0px 10px 2px  rgb(232, 75, 200); transition: transform 2s; transform: rotate(360deg);}
+
+.YouTube{width:70px;height:70px;margin-left:2%;border-radius: 50%;background-size: cover;}
+.YouTube:hover{box-shadow: 0px 0px 10px 2px  rgb(232, 75, 200); transition: transform 2s; transform: rotate(360deg);}
+
+.twitter{width:70px;height:70px;margin-left:2%;border-radius: 50%;background-size: cover;}
+.twitter:hover{box-shadow: 0px 0px 10px 2px  rgb(232, 75, 200); transition: transform 2s; transform: rotate(360deg);}
+
+.Snapchat{width:70px;height:70px;margin-left:2%;border-radius: 50%;background-size: cover;}
+.Snapchat:hover{box-shadow: 0px 0px 10px 2px  rgb(232, 75, 200); transition: transform 2s; transform: rotate(360deg);}
