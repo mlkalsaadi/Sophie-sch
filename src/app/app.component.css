@@ -1,8 +1,8 @@
-.border{width:100vw;height:100vh;margin:0;background-color:#176045;overflow-y: hidden}
+.border{width:100%;height:100%;margin:0;background-color:#176045;overflow-y: hidden}
 
 .hintergrund{width:100%;height:100%;background-color: #0f402d;}
 
-.foto{width:100px;height:400px;margin-top:1%;border-radius:20px 20px 0px 0px;background-size: cover;
+.foto{width:100%;height:400px;margin-top:1%;border-radius:20px 20px 0px 0px;background-size: cover;
   min-width:100%;overflow-x:hidden; white-space: nowrap;box-shadow:0px 2px 0px 1px #33926a}
 .foto:hover{box-shadow:0px 0px 10px 2px #fff}
 .foto_1{width:414px;height:400px;background-size: cover;float: left;}
