@@ -1,48 +1,36 @@
-<div class="border">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Project README</title>
+</head>
+<body>
 
-  <div class="hintergrund">
+    <h1>Welcome to My Web Project!</h1>
 
-    <div class="foto">
-      <img class="foto_1" src="../assets/imgs/so_4.jpg">
-      <img class="foto_2" src="../assets/imgs/so.jpg">
-      <img class="foto_3" src="../assets/imgs/so_2.jpg">
-      <img class="foto_4" src="../assets/imgs/so_5.jpg">
-      <video class="foto_5" controls><source src="../assets/vedio/Video_new.mov" type="Video/mp4"></video>
+    <p>This is a brief introduction to my web project. It's awesome!</p>
 
+    <h2>Project Structure</h2>
 
-    </div>
-     <div style="width:100%;height:160px;">
+    <p>Describe your project structure here...</p>
 
-          <div  style="width: 100%;height:80px;"> 
-             <h1 class="name">Sophie 🤍</h1>
-             <h3 class="work">bvdk - Sportler/in 🏋 Deutschland</h3>
-          </div>
-  
-        <div class="media">
+    <h2>Usage</h2>
 
-          <a href="https://instagram.com/sophiesch0?igshid=OGQ5ZDc2ODk2ZA== " target="_blank">
-            <img class="instagram" src="../assets/imgs/instagram_logo.png" alt="Instagram">
-          </a>
+    <p>Explain how someone can use your project...</p>
 
-          <a href="https://www.tiktok.com/@soophiesch0?_t=8hHmpgQLFpI&_r=1" target="_blank">
-            <img class="tiktok" src="../assets/imgs/tiktok_logo.png" alt="TikTok">
-          </a>
+    <h2>Contributing</h2>
 
-          <a href="YOUR_YOUTUBE_CHANNEL_URL" target="_blank">
-            <img class="YouTube" src="../assets/imgs/youtube.png" alt="YouTube">
-          </a>
+    <p>Let people know how they can contribute to your project...</p>
 
-          <a href="YOUR_YOUTUBE_CHANNEL_URL" target="_blank">
-            <img class="twitter" src="../assets/imgs/twitter.png" alt="twitter">
-          </a>
-          
-          <a href="https://t.snapchat.com/IufrHlUm " target="_blank">
-            <img class="Snapchat" src="../assets/imgs/snap-png.png" alt="Snapchat">
-          </a>
-          
-        
-        </div>
-      </div>
-     </div>
+    <h2>License</h2>
 
-</div>
+    <p>Specify the license for your project...</p>
+
+    <h2>Preview</h2>
+
+    <!-- Embedding an image -->
+    <img src="path/to/your/image.jpg" alt="Project Preview">
+
+</body>
+</html>
