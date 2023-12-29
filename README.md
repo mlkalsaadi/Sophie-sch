@@ -11,7 +11,7 @@
   <h3>18 | Berlin</h3>
   <h3>golden circle </h3>
 
-  <a href="calendly.com/sophie2005schmidtke/30min">how to work with me</a>
+  <a href="[calendly.com/sophie2005schmidtke/30min](https://calendly.com/sophie2005schmidtke/30min?month=2023-12)">how to work with me</a><br>
   <a href="https://user-puce.vercel.app/">My Web Page</a>
   
  
