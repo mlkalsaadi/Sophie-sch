@@ -12,11 +12,11 @@
   <h3>golden circle </h3>
 
   <a href="https://calendly.com/sophie2005schmidtke/30min?month=2023-12">how to work with me</a><br>
-  <a href="https://user-puce.vercel.app/">My Web Page</a>
+  <a href="https://user-puce.vercel.app/">My Web Page</a><br>
   
  
   
- <img src="../assets/vedio/Video_new.mov" type="Video/mp4"></img>
+<video style="width:414 px;height:400 px;background-size: cover;float: left;margin-top:1 px;" controls><source src="../assets/vedio/Video_new.mov" type="Video/mp4"></video>
 
 </body>
 </html>
