@@ -1,36 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web Project README</title>
 </head>
 <body>
-
-    <h1>Welcome to My Web Project!</h1>
-
-    <p>This is a brief introduction to my web project. It's awesome!</p>
-
-    <h2>Project Structure</h2>
-
-    <p>Describe your project structure here...</p>
-
-    <h2>Usage</h2>
-
-    <p>Explain how someone can use your project...</p>
-
-    <h2>Contributing</h2>
-
-    <p>Let people know how they can contribute to your project...</p>
-
-    <h2>License</h2>
-
-    <p>Specify the license for your project...</p>
-
-    <h2>Preview</h2>
-
-    <!-- Embedding an image -->
-    <img src="path/to/your/image.jpg" alt="Project Preview">
+<h1>sophie Sch| digital entrepreneur</h1> 
+  <h3>Digital Creator</h3>
+  <h3>subjunior powerlifter @ -84, -76 kg</h3>
+  <h3>18 | Berlin</h3>
+  <h3>golden circle - you can. how to work with me -> dm</h3>
+ <a>calendly.com/sophie2005schmidtke/30min</a>
+ 
+   
+   <img src="src/assets/vedio/Video.mp4" alt="Projektvorschau">
 
 </body>
 </html>
