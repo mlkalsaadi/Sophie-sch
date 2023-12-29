@@ -16,7 +16,7 @@
   
  
   
-  <video  controls><source src="../assets/vedio/Video_new.mov" type="Video/mp4"></video>
+ <img src="../assets/vedio/Video_new.mov" type="Video/mp4"></img>
 
 </body>
 </html>
