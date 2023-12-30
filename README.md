@@ -86,7 +86,7 @@
         <a class="button" href="https://user-puce.vercel.app/">My Web Page</a>
 
         <video style="width: 200px;height: 200px;" controls>
-            <source src="../assets/vedio/Video_new.mov" type="video/mp4">
+            <source src="../Sophie-sch/assets/vedio/Video_new.mov" type="video/mp4">
         </video>
     </section>
 
